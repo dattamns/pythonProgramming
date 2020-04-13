@@ -1,8 +1,7 @@
 ##################################################
 # Core Python : Python Data Structures - Lists 
 # Author : Shreekanta Datta
-# mnsdatta@gmail.com
-# dattamns@github.com
+# GitHub : https://github.com/dattamns/pythonProgramming
 ##################################################
 
 #########################################################################################################
