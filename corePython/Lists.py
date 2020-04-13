@@ -1,9 +1,14 @@
-# UTTARA : Python Data Structures
+##################################################
+# Core Python : Python Data Structures - Lists 
 # Author : Shreekanta Datta
 # mnsdatta@gmail.com
 # dattamns@github.com
+##################################################
 
+#########################################################################################################
 # Decription: This python files demonstrates the concept of Lists in Python and its programming constructs
+##########################################################################################################
+
 
 #Basic constructs
 
